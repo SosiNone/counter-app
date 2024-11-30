@@ -4,7 +4,8 @@ on:
   push: # on every push
 
 jobs:
-  deploy:
+  build:
+    name: Build and Deploy
     runs-on: ubuntu-latest
 
     steps:
