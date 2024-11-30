@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Local/Git%20Projects/counter-app/.github/workflows/deploy.yaml"
+    }
+}
